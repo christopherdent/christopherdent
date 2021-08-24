@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">A passionate full stack developer recently out of code school.</h3>
+<h3 align="center">A passionate full stack developer recently out of code school.  Looking to combine coding with my extensive program management experience!</h3>
 
 - 🔭 I’m currently working on [Battle Ships v2](https://github.com/christopherdent/battleships-react)
 
