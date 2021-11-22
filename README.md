@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">Recently out of Flatiron's coding bootcamp.  Looking to combine coding with my extensive program management experience!</h3>
 
-- 🔭 I’m currently working on [Battle Ships v2](https://github.com/christopherdent/battleships-react)
+- 🔭 I’m currently working on [CD Comic Collector](https://github.com/christopherdent/marvel-dent)
 
 - 🌱 I’m currently learning **Node.js**
 
