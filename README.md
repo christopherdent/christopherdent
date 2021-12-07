@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **christopherdent01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LY11jxAJQwMGcCUAmi-wJuocOl2qdpOg/view?usp=sharing](https://drive.google.com/file/d/1LY11jxAJQwMGcCUAmi-wJuocOl2qdpOg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LY11jxAJQwMGcCUAmi-wJuocOl2qdpOg/view?usp=sharing)
 
 - ⚡ Fun fact **I made a text based CLI game with C++ in high school (late 90s) and loved coding ever since.**
 
