@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">Recently out of Flatiron's coding bootcamp.  Looking to combine coding with my extensive program management experience!</h3>
 
-- 🔭 I’m currently working on [CD Comic Collector](https://github.com/christopherdent/marvel-dent)
+- 🔭 I’m currently working on [my day job](https://www.linkedin.com/in/christopher-james-dent/).
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Serverless Functions**
 
 - 🤝 I’m looking for help with [Pomagotchi](https://github.com/christopherdent/pomagotchi)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://christopher-dent.medium.com/](https://christopher-dent.medium.com/)
 
-- 💬 Ask me about **HTML, React, JavaScript**
+- 💬 Ask me about **HTML, Vue, Rails, React, JavaScript**
 
 - 📫 How to reach me **christopherdent01@gmail.com**
 
