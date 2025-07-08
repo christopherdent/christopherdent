@@ -3,14 +3,6 @@
 
 - 🔭 I’m currently working on [my day job](https://www.linkedin.com/in/christopher-james-dent/).
 
-- 🌱 I’m currently learning **Serverless Functions**
-
-- 🤝 I’m looking for help with [Pomagotchi](https://github.com/christopherdent/pomagotchi)
-
-- 👨‍💻 All of my projects are available at [http://www.christopher-dent.com](http://www.christopher-dent.com)
-
-- 📝 I regularly write articles on [https://christopher-dent.medium.com/](https://christopher-dent.medium.com/)
-
 - 💬 Ask me about **HTML, Vue, Rails, React, JavaScript**
 
 - 📫 How to reach me **christopherdent01@gmail.com**
